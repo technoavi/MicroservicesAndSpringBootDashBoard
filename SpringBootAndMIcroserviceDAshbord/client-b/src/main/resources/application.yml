@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: microservice B
+    
+server:
+  port: 8082
