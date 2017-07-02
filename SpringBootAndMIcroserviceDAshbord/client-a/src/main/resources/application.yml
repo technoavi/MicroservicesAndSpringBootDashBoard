@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: microservice A
+    
+server:
+  port: 8081
+  
+management:
+  security:
+    enabled: false
